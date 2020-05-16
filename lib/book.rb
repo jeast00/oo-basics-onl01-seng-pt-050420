@@ -1,3 +1,5 @@
+# Example of long coding a class
+
 class Book
   def initialize(title)
     @title = title
